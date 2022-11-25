@@ -1,3 +1,4 @@
+# Terraform configuration file
 terraform {
   required_providers {
     aws = {
